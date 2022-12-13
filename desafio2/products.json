@@ -1,0 +1,47 @@
+[
+  {
+    "id": 2,
+    "title": "Naranja",
+    "description": "Jugasa",
+    "price": 15,
+    "thumbnail": "https://media.istockphoto.com/id/185284489/es/foto/naranja.jpg?s=612x612&w=0&k=20&c=V_kmzGGofV9oTdQMU-SfT4Y9n3q9ksFZliED5O_eYPE=",
+    "code": 3,
+    "stock": 1
+  },
+  {
+    "id": 3,
+    "title": "Naranja",
+    "description": "jugosa",
+    "price": 15,
+    "thumbnail": "https://media.istockphoto.com/id/185284489/es/foto/naranja.jpg?s=612x612&w=0&k=20&c=V_kmzGGofV9oTdQMU-SfT4Y9n3q9ksFZliED5O_eYPE=",
+    "code": 3,
+    "stock": 1
+  },
+  {
+    "id": 4,
+    "title": "Uvas",
+    "description": "muy ricas",
+    "price": 15,
+    "thumbnail": "https://media.istockphoto.com/id/185284489/es/foto/naranja.jpg?s=612x612&w=0&k=20&c=V_kmzGGofV9oTdQMU-SfT4Y9n3q9ksFZliED5O_eYPE=",
+    "code": 3,
+    "stock": 1
+  },
+  {
+    "id": 5,
+    "title": "Naranja",
+    "description": "jugosa",
+    "price": 15,
+    "thumbnail": "https://media.istockphoto.com/id/185284489/es/foto/naranja.jpg?s=612x612&w=0&k=20&c=V_kmzGGofV9oTdQMU-SfT4Y9n3q9ksFZliED5O_eYPE=",
+    "code": 3,
+    "stock": 1
+  },
+  {
+    "id": 6,
+    "title": "Uvas",
+    "description": "muy ricas",
+    "price": 15,
+    "thumbnail": "https://media.istockphoto.com/id/185284489/es/foto/naranja.jpg?s=612x612&w=0&k=20&c=V_kmzGGofV9oTdQMU-SfT4Y9n3q9ksFZliED5O_eYPE=",
+    "code": 3,
+    "stock": 1
+  }
+]
